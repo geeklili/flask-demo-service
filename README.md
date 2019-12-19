@@ -110,7 +110,6 @@ MYSQL_DATABASE_OUT_URI =  {'host':'192.168.1.1', 'user':'mongo_user', 'passwd':'
 ```
 
 
-
 ##### 5. flask启动服务
 
 启动服务: 启动成功后服务路径下回生成一个`flask-demo-service.sock`文件，用于`nginx`和此`gunicorn`沟通
